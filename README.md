@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayurMittal01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MayurMittal01/leetcode/tree/master/0027-remove-element) |
+| [0078-subsets](https://github.com/MayurMittal01/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MayurMittal01/leetcode/tree/master/0136-single-number) |
 | [0867-transpose-matrix](https://github.com/MayurMittal01/leetcode/tree/master/0867-transpose-matrix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/MayurMittal01/leetcode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MayurMittal01/leetcode/tree/master/0136-single-number) |
 ## Stack
 |  |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MayurMittal01/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
