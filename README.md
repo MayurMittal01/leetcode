@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/MayurMittal01/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayurMittal01/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/MayurMittal01/leetcode/tree/master/0136-single-number) |
+| [0643-maximum-average-subarray-i](https://github.com/MayurMittal01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/MayurMittal01/leetcode/tree/master/0867-transpose-matrix) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## Matrix
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/MayurMittal01/leetcode/tree/master/0051-n-queens) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/MayurMittal01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
