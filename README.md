@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MayurMittal01/leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayurMittal01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MayurMittal01/leetcode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/MayurMittal01/leetcode/tree/master/0046-permutations) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/MayurMittal01/leetcode/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/MayurMittal01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/MayurMittal01/leetcode/tree/master/0268-missing-number) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
