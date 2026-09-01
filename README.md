@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/MayurMittal01/leetcode/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/MayurMittal01/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/MayurMittal01/leetcode/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/MayurMittal01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/MayurMittal01/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MayurMittal01/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MayurMittal01/leetcode/tree/master/0283-move-zeroes) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MayurMittal01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/MayurMittal01/leetcode/tree/master/0268-missing-number) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
 ## String
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MayurMittal01/leetcode/tree/master/0053-maximum-subarray) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/MayurMittal01/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
