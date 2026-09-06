@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/MayurMittal01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MayurMittal01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0525-contiguous-array](https://github.com/MayurMittal01/leetcode/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurMittal01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/MayurMittal01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0867-transpose-matrix](https://github.com/MayurMittal01/leetcode/tree/master/0867-transpose-matrix) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/MayurMittal01/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MayurMittal01/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/MayurMittal01/leetcode/tree/master/0525-contiguous-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/MayurMittal01/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/MayurMittal01/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/MayurMittal01/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MayurMittal01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MayurMittal01/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MayurMittal01/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/MayurMittal01/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MayurMittal01/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -137,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/MayurMittal01/leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/MayurMittal01/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/MayurMittal01/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/MayurMittal01/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
