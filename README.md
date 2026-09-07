@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MayurMittal01/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MayurMittal01/leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/MayurMittal01/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/MayurMittal01/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayurMittal01/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/MayurMittal01/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/MayurMittal01/leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/MayurMittal01/leetcode/tree/master/0015-3sum) |
+| [0148-sort-list](https://github.com/MayurMittal01/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MayurMittal01/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/MayurMittal01/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MayurMittal01/leetcode/tree/master/0268-missing-number) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/MayurMittal01/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/MayurMittal01/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/MayurMittal01/leetcode/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
@@ -202,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MayurMittal01/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/MayurMittal01/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/MayurMittal01/leetcode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/MayurMittal01/leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MayurMittal01/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Recursion
 |  |
@@ -214,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/MayurMittal01/leetcode/tree/master/0509-fibonacci-number) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/MayurMittal01/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
