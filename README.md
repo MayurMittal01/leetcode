@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MayurMittal01/leetcode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/MayurMittal01/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurMittal01/leetcode/tree/master/0344-reverse-string) |
@@ -110,9 +111,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0022-generate-parentheses) |
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MayurMittal01/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/MayurMittal01/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/MayurMittal01/leetcode/tree/master/0046-permutations) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MayurMittal01/leetcode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/MayurMittal01/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/MayurMittal01/leetcode/tree/master/0509-fibonacci-number) |
