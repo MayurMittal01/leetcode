@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/MayurMittal01/leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/MayurMittal01/leetcode/tree/master/0125-valid-palindrome) |
+| [0227-basic-calculator-ii](https://github.com/MayurMittal01/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/MayurMittal01/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/MayurMittal01/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MayurMittal01/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/MayurMittal01/leetcode/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MayurMittal01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/MayurMittal01/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/MayurMittal01/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/MayurMittal01/leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MayurMittal01/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/MayurMittal01/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0227-basic-calculator-ii](https://github.com/MayurMittal01/leetcode/tree/master/0227-basic-calculator-ii) |
 | [0268-missing-number](https://github.com/MayurMittal01/leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/MayurMittal01/leetcode/tree/master/0509-fibonacci-number) |
 ## Binary Search
