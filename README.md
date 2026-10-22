@@ -280,10 +280,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MayurMittal01/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MayurMittal01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/MayurMittal01/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0872-leaf-similar-trees](https://github.com/MayurMittal01/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/MayurMittal01/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/MayurMittal01/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/MayurMittal01/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0872-leaf-similar-trees](https://github.com/MayurMittal01/leetcode/tree/master/0872-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/MayurMittal01/leetcode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
